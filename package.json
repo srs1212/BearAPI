@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/srs1212/BearAPI/issues"
   },
-  "homepage": "https://github.com/srs1212/BearAPI#readme"
+  "homepage": "https://github.com/srs1212/BearAPI#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
